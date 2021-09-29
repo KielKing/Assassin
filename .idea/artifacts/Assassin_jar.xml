@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Assassin:jar">
+    <output-path>$USER_HOME$/Desktop/Spigot/out</output-path>
+    <root id="archive" name="Assassin.jar">
+      <element id="module-output" name="Assassin" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/Spigot/spigot-api-1.15.2-R0.1-20200620.025358-119.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

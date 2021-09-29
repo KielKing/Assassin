@@ -1,0 +1,10 @@
+name: Assassin
+version: "1.0"
+author: KielKing
+main: me.KielKing.Assassin.Assassin
+api-version: "1.15"
+
+commands:
+  assassin:
+    description: Assassin Command
+    permission: assassin.command
